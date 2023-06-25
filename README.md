@@ -9,5 +9,5 @@ We are doing the following analysis:
 - Train and compare regression models
 
 
-![image](![output](https://github.com/juhi2811/used_cars_analysis/assets/51826271/abeeed92-3482-4b2c-8585-0131e03d305a))
+![image](!(https://github.com/juhi2811/used_cars_analysis/assets/51826271/abeeed92-3482-4b2c-8585-0131e03d305a))
 
